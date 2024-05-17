@@ -5,9 +5,11 @@
 </h1>
 
 ## 👨‍💻: About Me :
+
 🎓: Bachelor's degree in Computer Science with a specialization in Artificial Intelligence from Champollion University of Albi.
 
-🌱: Currently at Kedge Business School in Bordeaux, as part of a thesis collaboration with LaPoste, focusing on Data Science.
+🌱: Currently, I am interning at Kedge Business School in Bordeaux, as part of a thesis collaboration with LaPoste, focusing on Data Science.
+
 
 
 
